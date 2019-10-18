@@ -4,7 +4,6 @@ const Travel = ({ destination, country, photo, distance }) => (
     <>
         <p>{destination}</p>
         <p>{country}</p>
-        <p>{photo}</p>
         <p>{distance}</p>
     </>);
 
